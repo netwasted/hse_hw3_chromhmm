@@ -28,3 +28,10 @@ https://colab.research.google.com/drive/1HIAOEMfJkgf1sxexXTzTosAYzi-DwjZ-?usp=sh
 ![K562_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/60008375/160094524-c33f36e2-7bce-4365-ad10-336aaa8bf3bb.png)
 ![K562_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/60008375/160094545-628dd3a8-a4a3-4aed-91d2-aa19977b5ebb.png)
 ![transitions_10](https://user-images.githubusercontent.com/60008375/160094556-4d6d4e93-4c43-46f2-b189-5f76b702ff91.png)
+
+### Скриншоты из UCSC Genome Browser
+
+![image](https://user-images.githubusercontent.com/60008375/160096335-8e4b336a-e0ca-4c7e-bb78-985a160caf24.png)
+
+![image](https://user-images.githubusercontent.com/60008375/160097013-19bc61e5-364c-48bf-9c9d-f0c738e5a2b7.png)
+
