@@ -51,3 +51,5 @@ https://colab.research.google.com/drive/1HIAOEMfJkgf1sxexXTzTosAYzi-DwjZ-?usp=sh
 | 10                          | Enchancer            | Почти все         | Сильный сигнал                                                                       |
 
 ### Результат бонусного задания
+
+![image](https://user-images.githubusercontent.com/60008375/160295883-4a56582e-5dc8-428a-94f9-42deeb5aed97.png)
